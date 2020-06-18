@@ -1,2 +1,3 @@
-# alyce-garner-peterson.github.io
-Alyce's Website
+# Alyce Garner Peterson - An A.I fine tuned screenplay writer
+
+Official website!
